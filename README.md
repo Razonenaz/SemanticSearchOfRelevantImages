@@ -6,3 +6,5 @@ Works in pair with any structured dataset, you only need to install it in your w
 Use config to change your models directory.
 
 Use c_db to create Chroma database.
+
+Use app.py to run application.
